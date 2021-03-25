@@ -14,6 +14,9 @@ contributor:
   - agent_name: Gemmell, William
     gutenberg_agent_id: '52990'
     url: http://www.gutenberg.org/2009/agents/52990
+covers:
+- cover_type: archival
+  image_path: 64623-h/images/cover.jpg
 creator:
   author:
     agent_name: Unknown
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/ebooks/author/216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64623#The-Diamond-Sutra-Chin-Kang-Ching-or-Prajna-Paramita
 gutenberg_issued: '2021-02-25'
 gutenberg_type: Text
 identifiers:
